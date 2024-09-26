@@ -1,6 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm S7RAJ</h1>
 <h3 align="center">A passionate developer from India</h3>
+[![An image of @s7rajinc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/s7rajinc)](https://holopin.io/@s7rajinc)
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s7raj-inc&label=Profile%20views&color=0e75b6&style=flat" alt="s7raj-inc" /> </p>

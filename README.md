@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s7raj-inc&label=Profile%20views&color=0e75b6&style=flat" alt="s7raj-inc" /> </p>
 
-- 🔭 I’m currently working on **PORTFOLIO WEBSITE**
+-  I’m currently working on **WEBSITE COMPONENTS AND CLONES**
 
-- 🌱 I’m currently learning **IT AND CYBERSECURITY**
+-  I’m currently learning **IT AND CYBERSECURITY**
 
-- 👯 I’m looking to collaborate on **PROJECTS**
+-  I’m looking to collaborate on **PROJECTS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/suraj-patil-1206b9295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surajjpatil/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/suraj-patil-1206b9295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/suraj-patil-1206b9295" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
